@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm a Software Engineer with experience in front-end, full stack, low level and more.
 <!--
 **krizh-p/krizh-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=krizh-p&color=green)
