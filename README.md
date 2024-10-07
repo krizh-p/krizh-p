@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Software Engineer with experience in front-end, full stack, low level and more.
+I work as a Software Engineer and I have some experience with pretty much all areas of CS; professional experience with CoStar, Microsoft, Volkswagen, and teaching my own course at GMU 
 <!--
 **krizh-p/krizh-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
